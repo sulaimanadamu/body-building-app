@@ -33,3 +33,5 @@ below are pictures of how what i have explained above was used by me.
 ![workflow2](./images/git-workflow-2.png)
 ![workflow3](./images/git-workflow-3.png)
 ![workflow4](./images/git-workflow-4.png)
+
+The above images shows how different commands i used in my terminal to get the job done.
