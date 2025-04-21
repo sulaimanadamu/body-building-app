@@ -30,6 +30,9 @@ this will pull the branch changes into any branch you are currently on and make 
 below are pictures of how what i have explained above was used by me.
 
 ![workflow1](./images/git-workflow-1.png)
+
 ![workflow2](./images/git-workflow-2.png)
+
 ![workflow3](./images/git-workflow-3.png)
+
 ![workflow4](./images/git-workflow-4.png)
