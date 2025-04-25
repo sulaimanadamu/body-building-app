@@ -1,4 +1,4 @@
-# body-building-app
+1# body-building-app
 
 This is a devOps project used to show the workflow of git.
 As a student we have been asked to perform this tasks which is used to simulate how different team members 
@@ -50,24 +50,3 @@ WORKING OF PULL REQUEST TASK.
 ![important steps in the workflow](./images/steps-in-pr-workflow.png)
 
 ![Tom pull request creation](./images/tom-pr.png)
-creating a pullrequest for tom 
-![create tom pr](./images/pr1.png)
-
-reviewing pull request before merging
-![](./images/pr2.png)
-
-reviewing pull request before merging
-![](./images/pr3.png)
-
-reviewing pull request before merging
-![](./images/pr4.png)
-
-![](.\images\Snipaste_2025-04-25_13-03-30.png)
-![](.\images\Snipaste_2025-04-25_13-03-30.png)
-
-![jerry pull request](./images/Jerry-pr.png)
-
-Merge conflict 
-
-![](.\images\cmd-conflict-resolution.png)
-![](.\images\resolving-merge-conflict.png)
