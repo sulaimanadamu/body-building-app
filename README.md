@@ -52,3 +52,5 @@ WORKING OF PULL REQUEST TASK.
 ![Tom pull request creation](./images/tom-pr.png)
 
 ![Tom pull request merge](./images/Tom-pr-merge.png)
+
+![jerry pull request](./images/Jerry-pr.png)
