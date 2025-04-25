@@ -45,10 +45,3 @@ here are the merging i did
 
 
 WORKING OF PULL REQUEST TASK.
-
-
-![important steps in the workflow](./images/steps-in-pr-workflow.png)
-
-![Tom pull request creation](./images/tom-pr.png)
-
-![Tom pull request merge](./images/Tom-pr-merge.png)
