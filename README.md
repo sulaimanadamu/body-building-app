@@ -1,4 +1,4 @@
-# body-building-app
+1# body-building-app
 
 This is a devOps project used to show the workflow of git.
 As a student we have been asked to perform this tasks which is used to simulate how different team members 
@@ -45,3 +45,8 @@ here are the merging i did
 
 
 WORKING OF PULL REQUEST TASK.
+
+
+![important steps in the workflow](./images/steps-in-pr-workflow.png)
+
+![Tom pull request creation](./images/tom-pr.png)
