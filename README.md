@@ -42,3 +42,4 @@ here are the merging i did
 ![merge update-navigation to add contact](./images/update-navigation-merge.png)
 
 ![merge update-navigation to main](./images/merge-nav-to-main.png)
+
