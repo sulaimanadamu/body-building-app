@@ -70,4 +70,4 @@ reviewing pull request before merging
 Merge conflict 
 
 ![](.\images\cmd-conflict-resolution.png)
-![]()
+![](.\images\resolving-merge-conflict.png)
