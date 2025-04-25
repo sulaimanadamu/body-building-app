@@ -53,6 +53,9 @@ creating a pullrequest for tom
 ![create tom pr](./images/pr1.png)
 ![Tom pull request creation](./images/tom-pr.png)
 
+reviewing pull request before merging
+![](./images/pr3.png)
+
 ![Tom pull request merge](./images/Tom-pr-merge.png)
 
 ![jerry pull request](./images/Jerry-pr.png)
