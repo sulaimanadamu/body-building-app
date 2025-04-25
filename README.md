@@ -50,7 +50,6 @@ WORKING OF PULL REQUEST TASK.
 ![important steps in the workflow](./images/steps-in-pr-workflow.png)
 
 ![Tom pull request creation](./images/tom-pr.png)
-
 creating a pullrequest for tom 
 ![create tom pr](./images/pr1.png)
 
