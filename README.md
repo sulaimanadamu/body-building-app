@@ -62,4 +62,12 @@ reviewing pull request before merging
 reviewing pull request before merging
 ![](./images/pr4.png)
 
+![](.\images\Snipaste_2025-04-25_13-03-30.png)
+![](.\images\Snipaste_2025-04-25_13-03-30.png)
+
 ![jerry pull request](./images/Jerry-pr.png)
+
+Merge conflict 
+
+![](.\images\cmd-conflict-resolution.png)
+![]()
