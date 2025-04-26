@@ -46,8 +46,34 @@ here are the merging i did
 
 WORKING OF PULL REQUEST TASK.
 
-jerry pulls in changes in the main branch using 
+Tom pulls in changes in the main branch using 
 > git pull origin main
+
+Tom pulls in changes in the main branch using 
+> git pull origin main
+
+![pull in changes](./images/Tom-pull-in-changes-in-main-branch.png)
+
+Tom push changes to the add-contact branch
+
+![Tom push](./images/tom-push-changes-to-it-branch.png)
+
+Tom made a pull request with it new changes.
+
+![Tom pull request](./images/Tom-pull-request.png)
+
+Tom describes the reason for the pull request
+
+![description of pr](./images/Tom-description.png)
+
+Tom pull request was accepted and merge by team member.
+
+![pr merged](./images/Tom-requesting%20merge.png)
+
+Tom pull request merge successful message
+
+![Tom merge successfull](./images/Tom-pull-request-successful-message.png)
+
 
 ![pull in changes](./images/jerry-pulls-changes.png)
 
