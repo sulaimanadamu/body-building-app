@@ -52,9 +52,16 @@ Tom pulls in changes in the main branch using
 Tom pulls in changes in the main branch using 
 > git pull origin main
 
-![pull in changes](./images/Tom-pull-in-changes-in-main-branch.png)
+There was a conflict which was resolved as shown in the image follow  the one below.
+![pull in changes](./images/Tom-conflict-pulling-main.png)
 
-Tom push changes to the add-contact branch
+resolving the conflict for tom
+![tom resolve conflict](./images/Tom-accept-change.png)
+
+after accepting which changes to keep, Tom pushed the changes to it branch using 
+>git push origin update-navigation
+
+Tom push changes to the update-navigation branch
 
 ![Tom push](./images/tom-push-changes-to-it-branch.png)
 
@@ -74,7 +81,11 @@ Tom pull request merge successful message
 
 ![Tom merge successfull](./images/Tom-pull-request-successful-message.png)
 
+----------------------------------------------------------
 
+==========================================================
+
+==========================================================
 ![pull in changes](./images/jerry-pulls-changes.png)
 
 jerry push changes to the add-contact branch
