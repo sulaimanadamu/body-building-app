@@ -55,7 +55,7 @@ jerry push changes to the add-contact branch
 
 ![jerry push](./images/jerry-push-changes.png)
 
-jerry made a pull request
+jerry made a pull request with it new changes.
 
 ![jerry pull request](./images/pull-request-for-jerry.png)
 
