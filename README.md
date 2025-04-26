@@ -45,3 +45,29 @@ here are the merging i did
 
 
 WORKING OF PULL REQUEST TASK.
+
+jerry pulls in changes in the main branch using 
+> git pull origin main
+
+![pull in changes](./images/jerry-pulls-changes.png)
+
+jerry push changes to the add-contact branch
+
+![jerry push](./images/jerry-push-changes.png)
+
+jerry made a pull request
+
+![jerry pull request](./images/pull-request-for-jerry.png)
+
+jerry describes the reason for the pull request
+
+![description of pr](./images/jerry-pr-description.png)
+
+jerry pull request was accepted and merge by team member.
+
+![pr merged](./images/merging-pr-for-jerry.png)
+
+jerry pull request merge successful message
+
+![merge successfull](./images/merge-message-of-jerry-pr.png)
+
