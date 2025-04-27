@@ -49,9 +49,6 @@ WORKING OF PULL REQUEST TASK.
 Tom pulls in changes in the main branch using 
 > git pull origin main
 
-Tom pulls in changes in the main branch using 
-> git pull origin main
-
 There was a conflict which was resolved as shown in the image follow  the one below.
 ![pull in changes](./images/Tom-conflict-pulling-main.png)
 
@@ -83,10 +80,19 @@ Tom pull request merge successful message
 
 ----------------------------------------------------------
 
-==========================================================
+Jerry pulls in changes in the main branch using 
+> git pull origin main
 
-==========================================================
-![pull in changes](./images/jerry-pulls-changes.png)
+This resulted in the creation of conflict
+
+![pull in changes](./images/jerry-branch-has-conflict.png)
+
+There was a conflict which was resolved as shown in the image follow  the one below.
+
+![conflict resolution](./images/jerry-conflict-resolution.png)
+
+after accepting which changes to keep, Jerry pushed the changes to it branch using 
+>git push origin add-contact
 
 jerry push changes to the add-contact branch
 
